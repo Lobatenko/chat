@@ -1,0 +1,16 @@
+h2, .center{
+text-align:center;
+margin:0;}
+
+#chat{
+	border: 3px solid #0ff;
+	width: 250px;
+	height:200px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	margin: 0 auto;
+}
+input, textarea{
+	margin: 0 auto;
+	display: block;
+	}
